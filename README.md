@@ -1,4 +1,10 @@
 📊 Google Sheets Sales Data Auto-Mailer
+![Photos1](https://github.com/jigyasaw1-beep/Automated_sales-report-google-apps-script/blob/main/Screenshot%202025-11-21%20183402.png
+)
+![Photos2](https://github.com/jigyasaw1-beep/Automated_sales-report-google-apps-script/blob/main/Screenshot%202025-11-21%20183929.png
+)
+![Photos3](https://github.com/jigyasaw1-beep/Automated_sales-report-google-apps-script/blob/main/Screenshot%202025-11-21%20184326.png)
+
 
 Automatically filter sales data by salesman, generate a temporary Google Sheet, share it with the corresponding email, and delete the temporary file — all using Google Apps Script.
 
